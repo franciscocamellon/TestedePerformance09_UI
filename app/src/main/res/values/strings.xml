@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Teste de Performance 09</string>
+    <string name="password">Password</string>
+    <string name="new_password">New password</string>
+    <string name="current_password">Current password</string>
+    <string name="name">Full name</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="repeat_password">Confirm password</string>
+    <string name="signup">Sign Up</string>
+    <string name="text_signup">Don\'t have an account?</string>
+    <string name="link_signup">Sign up</string>
+    <string name="all">TODO</string>
+    <string name="user_email">userdefault@gmail.com</string>
+    <string name="user_name">User Default</string>
+    <string name="update_profile">Save</string>
+    <string name="delete_account">Delete account</string>
+    <string name="change_password">Change password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="title_check_email">Email verification</string>
+    <string name="title_home">Home</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_recover">Recover</string>
+    <string name="recover_description">Enter your email address in order to send you the steps to change your password.</string>
+    <string name="title_password_recovery">Password recovery</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_map">Map</string>
+    <string name="title_profile">Profile</string>
+    <string name="subject_title">Desenvolvimento Android</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="cancel">Cancel</string>
+</resources>

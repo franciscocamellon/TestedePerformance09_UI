@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="esti_green">#19706f</color>
+    <color name="esti_green_light">#509f9d</color>
+    <color name="esti_green_dark">#004444</color>
+    <color name="esti_blue">#1f4450</color>
+    <color name="esti_blue_light">#4b6f7c</color>
+    <color name="esti_blue_dark">#001d28</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="black_40">#999999</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#D2D2D2</color>
+</resources>
